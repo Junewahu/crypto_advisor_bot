@@ -1,6 +1,6 @@
 # CryptoBuddy: Your First AI-Powered Financial Sidekick! 🌟
 
-! [Screenshotchatbot](screenshot.png)
+![Screenshotchatbot](screenshot.png)
 
 CryptoBuddy is a beginner-friendly, rule-based chatbot that analyzes cryptocurrency data and provides investment advice based on profitability (price trends) and sustainability (energy efficiency, project viability).
 
